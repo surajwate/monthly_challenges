@@ -15,7 +15,7 @@ monthly_challenges = {
     "september" : "Take stairs all time.",
     "october" : "Write a letter to someone new every evening.",
     "november": "Cook a new recipe a week.",
-    "december": "Clean up after you're done."
+    "december": None
 }
 
 
